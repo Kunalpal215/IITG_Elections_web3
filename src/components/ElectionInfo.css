@@ -1,0 +1,28 @@
+.col-auto{
+    width: 200px;
+    height: 200px;
+    
+}
+img{
+    object-fit: cover;
+}
+#submit-button{
+    margin: 16px;
+}
+.ended-message{
+    margin: 16px;
+}
+.election-content{
+    margin: 16px;
+}
+#list-heading{
+    margin: 8px;
+}
+.tile-container{
+    padding: 8px;
+    margin: 8px;
+}
+.candidate-button{
+    margin-top: 12px;
+    margin-left: 8px;
+}

@@ -1,0 +1,15 @@
+#position-name{
+    padding: 8px 16px;
+    margin: 8px;
+}
+.candidates-tile{
+    padding: 16px 20px;
+    margin: 8px;
+}
+.candidate-tile-input{
+    padding: 8px;
+}
+#form-container{
+    margin: 8px 8px;
+    padding: 8px;
+}

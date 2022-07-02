@@ -1,0 +1,15 @@
+#credentials-container{
+    padding: 8px 8pxpx;
+    margin: 8px;
+}
+.cred-input{
+    margin: 8px 16px;
+}
+.submit-button{
+    margin-bottom: 16px;
+    margin-left: 16px;
+}
+#page-header{
+    margin-left: 16px;
+    margin-top: 16px;
+}
