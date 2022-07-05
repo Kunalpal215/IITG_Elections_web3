@@ -56,6 +56,9 @@ export const HomePage = () => {
   console.log(toShow);
   return (
     <div>
+      <div class="d-grid gap-2">
+      <Link to="/admin/home" style={{"margin":"16px"}}><button class="btn btn-warning" type="button"><h3>Click for Admin Dashboard</h3></button></Link>
+</div>
       {toShow.current===false ? <ProgressIndicator content="Loading..." /> : 
         <div id='listDiv'>
         {

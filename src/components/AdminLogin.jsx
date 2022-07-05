@@ -35,14 +35,14 @@ export const AdminLogin = () => {
 
   return (
     <div className='card' id='credentials-container'>
-        <h3 id='page-header'>Admin Login</h3>
+        <h3 id='page-header'>Admin Login (Continue with below credentials)</h3>
         <div className="mb-3 cred-input">
             <label htmlFor="useremail" className="form-label"><h5>Enter your email</h5></label>
-            <input type="email" name="" className="form-control" id="useremail" />
+            <input type="email" name="" className="form-control" id="useremail" value="kunalpal215@gmail.com"/>
         </div>
         <div className="mb-3 cred-input">
             <label htmlFor="secret" className="form-label"><h5>Enter secret</h5></label>
-            <input type="password" name="" className="form-control" id="secret" />
+            <input type="password" name="" className="form-control" id="secret" value="IamDeveloper"/>
         </div>
         <div className='d-grid gap-2 col-6 mx-aut'>
         <button onClick={onSubmit} className="btn btn-primary submit-button">Log In</button>

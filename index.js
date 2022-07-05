@@ -153,6 +153,7 @@ function checkAdminLogin(req,res,next){
     console.log(token);
     if(token){
         jwt.verify(token,process.env.ADMIN_JWT_SECRET,(err,decoded) => {
+            console.log(err);
             if(err){
                 res.json({"result" : "take to auth"});
                 return "token expired";
