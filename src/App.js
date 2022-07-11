@@ -12,6 +12,7 @@ import { AdminHome } from './components/AdminHome';
 import { ElectionInfo } from './components/ElectionInfo';
 import { ElectionResults } from './components/ElectionResults';
 import { Navbar } from './components/Navbar';
+import {ErrorPage} from './components/ErrorPage';
 
 function App() {
 
@@ -48,6 +49,7 @@ function App() {
           <Route path='admin/home' element={<AdminHome/>}></Route>
           <Route path='election/info/:electionID' element={<ElectionInfo/>}></Route>
           <Route path='election/results/:electionID' element={<ElectionResults/>}></Route>
+          <Route path='*' element={<ErrorPage/>}></Route>
         </Routes>
     </BrowserRouter>
   );

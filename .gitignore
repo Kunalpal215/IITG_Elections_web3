@@ -1,4 +1,9 @@
-node_modules
+node_modules/
 .env
-smart_contract/node_modules
+
+#Contract files & folders
+smart_contract/cache/
+smart_contract/artifacts/
+smart_contract/node_modules/
 smart_contract/.env
+
