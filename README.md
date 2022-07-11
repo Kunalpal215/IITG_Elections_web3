@@ -5,7 +5,7 @@
 #### ElectWise is a voting platform built on ethereum test network to conduct secure elections. This project is inspired from IIT Guwahati Gymkhana elections 2022 which was also conducted on blockchain.
 
 ## Live Demo
-#### This project is deployed on Heroku which you can view at [ElectWise Website](https://socialist-poutine-04150.herokuapp.com/) and view [ppt here](https://www.canva.com/design/DAFGFU1gF6o/d4-SrI8fGG-aYbfJfO1r2Q/view)
+#### This project is deployed on Heroku which you can view at [ElectWise Website](https://electwise.herokuapp.com/) and view [ppt here](https://www.canva.com/design/DAFGFU1gF6o/d4-SrI8fGG-aYbfJfO1r2Q/view)
 
 ## 🧩 Main Features
 #### <ul><li>Homepage for completed & ongoing elections</li><li>Token based autentication for securing url routes</li><li>Results & Vote statistics for completed elections</li><li>Admin Dashboard to add new elections</li></ul>
@@ -43,7 +43,12 @@ You need to add following varaibles in your .env file in the root folder:
 ```
 #### <ul><li>Now in the root of project folder, we need to run the command : node server.js</li><li>Server should have started and headover to "http://localhost:8000" to see the project in working 🙌.</li></ul>
 
-# 🖼️ Some glimpse of the website
+# 🖼️ Some glimpse of the platform
+
+## Guest Login Page (auto filled credentials)
+<img src="assets/GuestLogin.png">
+<br />
+
 ## Signup Page
 <img src="assets/SignUp.png">
 <br />
