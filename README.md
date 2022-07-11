@@ -53,16 +53,18 @@ You need to add following varaibles in your .env file in the root folder:
 <img src="assets/SignUp.png">
 <br />
 
-## Login Page
-<img src="assets/Login.png">
+## Admin Login Page
+<img src="assets/AdminLogin.png">
 <br />
 
 ## HomePage
 <img src="assets/HomePage.png">
 <br />
 
-## Add Question Page
-<img src="assets/AskQuestion.png">
+## Admin Dashboard
+<img src="assets/AdminDashboard_1.png">
+<br />
+<img src="assets/AdminDashboard_2.png">
 <br />
 
 ## Question Discussion Page

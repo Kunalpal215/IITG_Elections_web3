@@ -13,7 +13,7 @@ export const AdminHome = () => {
   useEffect(() => {
     checkAdminLogin();
   }, []);
-
+  console.log(process.env.REACT_APP_CLOUDINARY_UPLOAD_PRESET);
   async function checkAdminLogin() {
     let resp = await fetch("/login/admin/check", {
       method: "GET",
