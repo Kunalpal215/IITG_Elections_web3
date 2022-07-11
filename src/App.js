@@ -38,11 +38,11 @@ function App() {
         <Routes>
           <Route path='/' element={<HomePage/>}>
           </Route>
-          <Route path='user/signup' element={<SignUp/>}>
+          <Route path='user/signup' element={<SignUp />}>
           </Route>
-          <Route path='user/login' element={<Login/>}>
+          <Route path='user/login' element={<Login />}>
           </Route>
-          <Route path='auth' element={<AuthPage/>}>
+          <Route path='auth' element={<AuthPage />}>
           </Route>
           <Route path='admin/login' element={<AdminLogin/>}>
           </Route>
