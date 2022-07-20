@@ -47,48 +47,47 @@ You need to add following varaibles in your .env file in the root folder:
 
 ## Guest Login Page (auto filled credentials)
 <img src="assets/GuestLogin.png">
-<br />
+<br /><br />
 
 ## Signup Page
 <img src="assets/SignUp.png">
-<br />
+<br /><br />
 
 ## Admin Login Page
 <img src="assets/AdminLogin.png">
-<br />
+<br /><br />
 
 ## HomePage
 <img src="assets/HomePage.png">
+<br /><br />
+
+## After Election Page
+<img src="assets/ElectionEnd.png">
+<br /><br />
+
+## Elections Result Page
+<img src="assets/ResultsPage_1.png">
 <br />
+<img src="assets/ResultsPage_2.png">
+<br /><br />
 
 ## Admin Dashboard
 <img src="assets/AdminDashboard_1.png">
 <br />
 <img src="assets/AdminDashboard_2.png">
-<br />
-
-## Question Discussion Page
-<img src="assets/QnA_1.png">
-<br />
-<img src="assets/QnA_2.png">
-<br />
-
-## Profile Page
-<img src="assets/Profile.png">
-<br />
+<br /><br />
 
 ## 404 Error Page
-<img src="assets/NotFound.png">
-<br />
-<br />
+<img src="assets/ErrorPage.png">
+<br /><br />
 
 # 🐛 Bug Reporting
-#### Feel free to [open an issue](https://github.com/Kunalpal215/stacklimit-community-QnA-platform/issues) on GitHub if you find any bug.
+#### Feel free to [open an issue](https://github.com/Kunalpal215/IITG_Elections_web3/issues) on GitHub if you find any bug.
 
 <br />
 
 # ⭐ Feature Suggestion
-#### Feel free to [open an issue](https://github.com/Kunalpal215/stacklimit-community-QnA-platform/issues) on GitHub if you have feature idea to be added 🙌.
+#### Feel free to [open an issue](https://github.com/Kunalpal215/IITG_Elections_web3/issues) on GitHub if you have feature idea to be added 🙌.
 
 ```
 Thanks for visiting my repository 😊!! Please give a star ⭐ if you liked my project.
