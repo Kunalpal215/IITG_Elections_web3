@@ -5,7 +5,7 @@
 #### ElectWise is a voting platform built on ethereum test network to conduct secure elections. This project is inspired from IIT Guwahati Gymkhana elections 2022 which was also conducted on blockchain.
 
 ## Live Demo
-#### This project is deployed on Heroku which you can view at [ElectWise Website](https://electwise.herokuapp.com/) and view [ppt here](https://www.canva.com/design/DAFGFU1gF6o/d4-SrI8fGG-aYbfJfO1r2Q/view)
+#### This project is deployed on Heroku which you can view at [ElectWise Website](https://iitg-web3-elections.onrender.com/) and view [ppt here](https://www.canva.com/design/DAFGFU1gF6o/d4-SrI8fGG-aYbfJfO1r2Q/view)
 
 ## 🧩 Main Features
 #### <ul><li>Homepage for completed & ongoing elections</li><li>Token based autentication for securing url routes</li><li>Results & Vote statistics for completed elections</li><li>Admin Dashboard to add new elections</li></ul>
